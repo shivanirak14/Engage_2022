@@ -54,7 +54,9 @@ The code of the project is divided into the following files:<p>
  <li> Ensure dlib and cmake are installed before installing Face_Recognition package on your machine.<br> Visit the following link to successfully download and           install dlib and cmake : https://www.geeksforgeeks.org/how-to-install-face-recognition-in-python-on-windows/ <br>
       For Pyhton 3.9 and above: the whl file for dlib has been provided in the repository.    
   </li>
-  <li> Ensure that all the required tools and packages,as mentioned in the requirements file are downloaded and installed on your machine.</li>
+  <li> Ensure that all the required tools and packages,as mentioned in the requirements file are downloaded and installed on your machine.
+    <br> Use the following command in the command prompt to install all the requirements: pip install -r requirements.txt
+  </li>
   <li>Go to the directory where the files are stored and use the following command in the command prompt : streamlit run main.py</li>
   </ul>
 <h1>Note:</h1>
