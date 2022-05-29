@@ -1,6 +1,6 @@
 <h1> Attendance Tracking System using Face Recognition Technology </h1>
 
-This a web based application build as a project for Microsoft Engage 2022.
+This a web based application built as a project for Microsoft Engage 2022.
 
 Demo Video: 
 
@@ -51,6 +51,12 @@ The code of the project is divided into the following files:<p>
 
  <h1> Instructions to run on local machine </h1>                    
  <ul>
-  <li> Ensure that all the rquired tools and packages are downloaded and installed on your machine.</li>
+  <li> Ensure that all the rquired tools and packages,as mentioned in the requirements file are downloaded and installed on your machine.</li>
   <li>Go to the directory where the files are stored and use the following command in the command prompt : streamlit run main.py</li>
   </ul>
+<h1>Note:</h1>
+<ul>
+  <li> Ensure dlib and cmake are installed before installing Face_Recognition package on your machine.<br> Visit the following link to successfully download and install dlib and cmake : https://www.geeksforgeeks.org/how-to-install-face-recognition-in-python-on-windows/ <br>
+For Pyhton 3.9 and above: the whl file for dlib has been provided in the repository.    
+    
+  <li>
