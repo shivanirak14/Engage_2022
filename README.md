@@ -9,7 +9,7 @@ The problem statement for this project involves recording attendance of a studen
 
 <h1>Project Description</h1>
 A web based application that activates a webcam in order to take user’s face as input and:<br><br>
-  (i) displays the name of person whose attendance is being recorded through webcam.<br>
+  (i) displays the name of person whose attendance is being recorded.<br>
   (ii) stores this name in a database that contains the Attendance Records.<br>
   (iii) displays monthly statistics of Attendance recorded of the user.<br>
   (iv) displays Attendance analysis of all the students based on the data recorded. <br>
