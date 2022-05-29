@@ -2,7 +2,7 @@
 
 This a web based application built as a project for Microsoft Engage 2022.
 
-Demo Video: 
+Demo Video: https://drive.google.com/file/d/1vBAGwu5mCw2Ncg6jOgSkAZeSiVCUQ_61/view?usp=sharing
 
 <h1>Problem Statement</h1>
 The problem statement for this project involves recording attendance of a student with the help of a web application that takes the live image of a person as an input.
