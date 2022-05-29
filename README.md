@@ -55,9 +55,9 @@ The code of the project is divided into the following files:<p>
       For Pyhton 3.9 and above: the whl file for dlib has been provided in the repository.    
   </li>
   <li> Ensure that all the required tools and packages,as mentioned in the requirements file are downloaded and installed on your machine.
-    <br> Use the following command in the command prompt to install all the requirements: pip install -r requirements.txt
+    <br>Go to the directory where the files are stored and use the following command in the command prompt to install all the requirements: pip install -r requirements.txt
   </li>
-  <li>Go to the directory where the files are stored and use the following command in the command prompt : streamlit run main.py</li>
+  <li> Use the following command in the command prompt : streamlit run main.py</li>
   </ul>
 <h1>Note:</h1>
 <ul>
